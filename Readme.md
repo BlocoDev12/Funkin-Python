@@ -1,4 +1,4 @@
-Friday Night Funkin Python
+-- Friday Night Funkin Python
 
 Compile
 
