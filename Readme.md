@@ -1,6 +1,11 @@
--- Friday Night Funkin Python
+Friday Night Funkin Python
 
-Compile
+Poop Recriation of FNF
 
-> Using PyInstaller
-- Type: 'pyinstaller --onefile --noconsole funkin.py'
+
+> Compile
+
+- Download and Install Python 3 from https://www.python.org/
+- In IDLE execute: pip install pyinstaller
+- Open Cmd or IDLE in Funkin Folder
+- execute: pyinstaller --onefile --noconsole funkin.py
